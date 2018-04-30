@@ -3,7 +3,7 @@ def oxford_comma(array)
   string = array.join
   return string
 
-  string1 = string << "durian"
+  string1 = string << "and"
   return string1
 
 end
